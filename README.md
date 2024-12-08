@@ -1,7 +1,9 @@
 <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:36C8F4&height=150&section=header&text=Hello,%20I%20am%20Asher!&fontSize=40&fontColor=ffffff" alt="Networking Banner" />
+</div>
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:36C8F4&height=150&section=header&text=Hello,%20I%20am%20Asher!&fontSize=40&fontColor=ffffff" alt="Networking Banner" />
+<div align="center">
 
 ### *A Final-Year Computer Science Student Passionate About Networking, AI, and Cybersecurity!*
 
@@ -16,6 +18,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
+
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -80,7 +83,90 @@
   </picture>
 </div>
 
-## 🌐 Connect With Me:
+## 🏆 Licenses & Certifications
+<div align="left">
+
+<details>
+  <summary style="font-size: 1.5em; cursor: pointer; display: flex; align-items: center;">
+    Expand to view all certifications
+  </summary>
+  <div style="margin-top: 20px; padding: 0 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center;"><br/>
+        <table align="center" width="100%" style="max-width: 800px; margin: 0 auto; table-layout: auto; border-spacing: 10px;">
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🌐 CCNA: Enterprise Networking, Security, and Automation</h3>
+            <p><strong>Issuer:</strong> Cisco Networking Academy<br>
+               <strong>Skills:</strong> Enterprise Networking · Security · Automation</p>
+            <img src="https://img.shields.io/badge/Cisco-Enterprise%20Networking-blue" alt="CCNA Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🌐 CCNA: Switching, Routing, and Wireless Essentials</h3>
+            <p><strong>Issuer:</strong> Cisco Networking Academy<br>
+               <strong>Skills:</strong> Routing · Switching · Wireless Networking</p>
+            <img src="https://img.shields.io/badge/Cisco-Switching%20%26%20Routing-green" alt="CCNA Badge" />
+          </td>
+        </tr>
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🌐 CCNA: Introduction to Networks</h3>
+            <p><strong>Issuer:</strong> Cisco Networking Academy<br>
+               <strong>Skills:</strong> Network Fundamentals · Basic Routing · Ethernet</p>
+            <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-blue" alt="CCNA Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🛡️ Google Cybersecurity</h3>
+            <p><strong>Issuer:</strong> Google<br>
+               <strong>Skills:</strong> Cybersecurity Essentials · Threat Detection</p>
+            <img src="https://img.shields.io/badge/Google-Cybersecurity%20Fundamentals-red" alt="Google Cybersecurity Badge" />
+          </td>
+        </tr>
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🐍 Fundamentals of Python for Machine Learning</h3>
+            <p><strong>Issuer:</strong> Simplilearn<br>
+               <strong>Skills:</strong> Python · Machine Learning Basics</p>
+            <img src="https://img.shields.io/badge/Simplilearn-Python%20for%20Machine%20Learning-green" alt="Python ML Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🛡️ Cybersecurity Essentials</h3>
+            <p><strong>Issuer:</strong> Cisco Networking Academy<br>
+               <strong>Skills:</strong> Cybersecurity · Threat Analysis</p>
+            <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue" alt="Cybersecurity Badge" />
+          </td>
+        </tr>
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>🛡️ Introduction to Cybersecurity</h3>
+            <p><strong>Issuer:</strong> Cisco Networking Academy<br>
+               <strong>Skills:</strong> Cybersecurity Basics · Threat Prevention</p>
+            <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-blue" alt="Intro Cybersecurity Badge" />
+          </td>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>📡 Introduction to Packet Tracer</h3>
+            <p><strong>Issuer:</strong> Cisco Networking Academy<br>
+               <strong>Skills:</strong> Packet Tracer · Networking Basics</p>
+            <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Packet%20Tracer-lightgreen" alt="Packet Tracer Badge" />
+          </td>
+        </tr>
+        <tr>
+          <td align="left" style="padding: 10px; width: 50%;">
+            <h3>💻 Certificate for JavaScript Training</h3>
+            <p><strong>Issuer:</strong> Spoken Tutorial, IIT Bombay<br>
+               <strong>Skills:</strong> JavaScript · Web Development</p>
+            <img src="https://img.shields.io/badge/Simplilearn-JavaScript%20Training-yellow" alt="JavaScript Badge" />
+          </td>
+        </tr>
+        </table>
+    </div>
+  </div>
+</details>
+
+<div align="center">
+
+
+  
+## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamasher)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamasher)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AsherTwits)
 
