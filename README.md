@@ -24,13 +24,14 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=iamasher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=iamasher&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamasher&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 
 
@@ -109,6 +110,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamasher&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 
 <div style="text-align: center; margin-top: 20px;">
