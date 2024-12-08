@@ -74,15 +74,15 @@
     <td align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3>🎯 Digit Classification using Deep Learning on MNIST Dataset</h3>
       <a href="https://github.com/iamasher/Digit-Classification-using-Deep-Learning-on-MNIST-Dataset" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View Project Button" />
+        <img src="https://img.shields.io/badge/View%20Project-%232D333B?style=for-the-badge&logo=github&logoColor=white" alt="View Project Button" />
       </a>
     </td>
 
- <!-- Second Project Card -->
+    <!-- Second Project Card -->
    <td align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3>🎯 Automated University Exam Result Downloader</h3>
       <a href="https://github.com/iamasher/-Automated-University-Exam-Result-Downloader-" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View Project Button" />
+        <img src="https://img.shields.io/badge/View%20Project-%232D333B?style=for-the-badge&logo=github&logoColor=white" alt="View Project Button" />
       </a>
     </td>
   </tr>
@@ -91,7 +91,7 @@
 <!-- View All Projects Button -->
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/iamasher?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects Button" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-%232D333B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects Button" />
   </a>
 </p>
 
