@@ -1,5 +1,10 @@
-#
-###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
+<p align="right" style="font-size: 8px; color: #6c757d;">
+  Best viewed in dark mode 
+  <a href="https://github.com/settings/appearance" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Turn%20on%20dark%20mode-%232D333B?style=flat-square&logo=github&logoColor=white" alt="Turn on dark mode" />
+  </a>
+</p>
+
 
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:36C8F4&height=150&section=header&text=Hello,%20I%20am%20Asher!&fontSize=40&fontColor=ffffff" alt="Networking Banner" />
