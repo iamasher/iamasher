@@ -210,7 +210,7 @@
 [![](https://visitcount.itsvg.in/api?id=iamasher&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:36C8F4&height=150&section=footer&text=%26lt%3Bmd.asher%26gt%3B&fontSize=40&fontColor=ffffff&rotate=0" alt="Flipped Networking Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:36C8F4&height=150&section=footer&text=%26lt%3B/md.asher%26gt%3B&fontSize=40&fontColor=ffffff&rotate=0" alt="Flipped Networking Banner" />
 </div>
 
 
