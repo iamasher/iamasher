@@ -1,3 +1,6 @@
+#
+###### <p align = "right"> for best viewing experience, switch to dark mode.</p>
+
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:36C8F4&height=150&section=header&text=Hello,%20I%20am%20Asher!&fontSize=40&fontColor=ffffff" alt="Networking Banner" />
 </div>
@@ -78,7 +81,7 @@
       </a>
     </td>
 
-    <!-- Second Project Card -->
+   
    <td align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
       <h3>🎯 Automated University Exam Result Downloader</h3>
       <a href="https://github.com/iamasher/-Automated-University-Exam-Result-Downloader-" target="_blank">
