@@ -66,18 +66,40 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iamasher&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-
 ### 📂 Projects
 
-#### *1️⃣ Digit Classification using Deep Learning on MNIST Dataset*  
-[![GitHub](https://img.shields.io/badge/-View%20Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamasher/Digit-Classification-using-Deep-Learning-on-MNIST-Dataset)
+<table align="center">
+  <tr>
+    <!-- First Project Card -->
+    <td align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
+      <h3>🎯 Digit Classification using Deep Learning on MNIST Dataset</h3>
+      <a href="https://github.com/iamasher/Digit-Classification-using-Deep-Learning-on-MNIST-Dataset" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View Project Button" />
+      </a>
+    </td>
 
-- *Overview: Built a **Deep Learning model* to classify handwritten digits from the MNIST dataset using neural networks.  
-- *Tech Stack*: Python, TensorFlow, Keras.
+ <!-- Second Project Card -->
+   <td align="center" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
+      <h3>🎯 Automated University Exam Result Downloader</h3>
+      <a href="https://github.com/iamasher/-Automated-University-Exam-Result-Downloader-" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View Project Button" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!-- View All Projects Button -->
+<p align="center" style="margin-top: 20px;">
+  <a href="https://github.com/iamasher?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects Button" />
+  </a>
+</p>
+
+
+ 
 ## 📈 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamasher&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamasher&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 
