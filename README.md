@@ -35,7 +35,7 @@
 
 
 ## 💻 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=000000&border-radius=15" alt="C" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000&border-radius=15" alt="C++" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000&border-radius=15" alt="CSS3" />&nbsp;&nbsp;
