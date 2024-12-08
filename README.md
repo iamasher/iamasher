@@ -13,11 +13,17 @@
 
 ---
 ### 📈 *GitHub Stats*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamasher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=iamasher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## 💻 Tech Stack:
