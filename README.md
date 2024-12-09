@@ -162,9 +162,9 @@
         <tr>
           <td align="left" style="padding: 10px; width: 50%;">
             <h3>🐍 Fundamentals of Python for Machine Learning</h3>
-            <p><strong>Issuer:</strong> Simplilearn<br>
+            <p><strong>Issuer:</strong> I-Hub , IIT Roorkee<br>
                <strong>Skills:</strong> Python · Machine Learning Basics</p>
-            <img src="https://img.shields.io/badge/Simplilearn-Python%20for%20Machine%20Learning-green" alt="Python ML Badge" />
+            <img src="https://img.shields.io/badge/IIT Rorkee-Python%20for%20Machine%20Learning-green" alt="Python ML Badge" />
           </td>
           <td align="left" style="padding: 10px; width: 50%;">
             <h3>🛡️ Cybersecurity Essentials</h3>
