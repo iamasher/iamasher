@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### *A Final-Year Computer Science Student Passionate About Networking, AI, and Cybersecurity!*
+### *A  Computer Science graduate, Passionate About Networking, AI, and Cybersecurity!*
 
 💻 Enthusiastic about solving real-world problems through innovative technologies.  
 🎯 Currently delving into AI and Networking, aiming to enhance security in connected systems.  
